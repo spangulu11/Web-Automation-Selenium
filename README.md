@@ -57,6 +57,10 @@ XML File: This folder contains all TestNG xml files.
 
 Test Ouput : this contains output results and its TestNG default reporting folder.
 
+**Project file Added as ZIP File**
+If any class path issues this file can be helpfull.
+
+
 
 
 
